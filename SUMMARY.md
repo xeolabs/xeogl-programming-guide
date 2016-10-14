@@ -15,7 +15,7 @@
     * [Collections](collections.md)
     * [Boundaries](boundaries.md)
     * [Culling](culling.md)
-* [Chapter 2 - Importing](chapter_2_-_importing.md)
+* [Chapter 2 - Importing Content](chapter_2_-_importing-content.md)
     * [Importing glTF](loading_gltf.md)
     * [Importing OBJ](importing_obj.md)
     * [Importing 3DS](importing_3ds.md)
